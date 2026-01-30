@@ -8,7 +8,7 @@ Serveur sérieux et immersif, orienté RP de qualité, stabilité et expérience
 
 - 🎮 Plateforme : FiveM
 - 🧩 Framework : ESX
-- 🌍 Type : Serveur RP (<Public / Whitelist>)
+- 🌍 Type : Serveur RP
 - 💬 Discord : https://discord.gg/n5pnD8Qy
 
 ---
@@ -26,7 +26,7 @@ Serveur sérieux et immersif, orienté RP de qualité, stabilité et expérience
 
 ## © Copyright & Droits d’utilisation
 
-© 2026 <Nom du Serveur> RP. Tous droits réservés.
+© 2026 RP. Tous droits réservés.
 
 Ce dépôt et l’ensemble de son contenu (scripts, configurations, mappings, documents) sont la propriété exclusive de **GtaWorld RP**.
 
