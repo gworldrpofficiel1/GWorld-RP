@@ -22,4 +22,22 @@ Serveur sérieux et immersif, orienté RP de qualité, stabilité et expérience
 - ✔️ Anticheat / Sécurité
 - ✔️ Expérience RP immersive
 
---
+---
+
+## © Copyright & Droits d’utilisation
+
+© 2026 <Nom du Serveur> RP. Tous droits réservés.
+
+Ce dépôt et l’ensemble de son contenu (scripts, configurations, mappings, documents) sont la propriété exclusive de **GtaWorld RP**.
+
+❌ Il est strictement interdit de :
+- Copier, redistribuer ou revendre tout ou partie du projet
+- Utiliser les scripts à des fins commerciales sans autorisation
+- Publier ce projet ou ses éléments sous un autre nom
+- Se l’approprier ou le modifier sans crédit explicite
+
+✅ Autorisé uniquement avec :
+- L’accord écrit du propriétaire du projet
+- Le respect des crédits originaux
+
+Toute violation pourra entraîner des sanctions conformément aux lois en vigueur et aux règles de la plateforme FiveM / CFX.re.
